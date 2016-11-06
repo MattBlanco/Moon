@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Matthew Blanco
+bio:                'My portfolio.'
+description:        "Searching for a software design position."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -37,19 +37,19 @@ disqus_shortname:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github:             username
+email:              matthew.e.blanco@gmail.com
+#twitter:            username
+#facebook:           username
+github:             MattBlanco
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           mattheweblanco
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
